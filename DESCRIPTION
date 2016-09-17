@@ -1,8 +1,8 @@
 Package: BTR
 Type: Package
 Title: Training and Analysing Asynchronous Boolean Models
-Version: 1.2.3
-Date: 2016-6-23
+Version: 1.2.4
+Date: 2016-9-13
 Author: Chee Yee Lim
 Maintainer: Chee Yee Lim <cyl49@cam.ac.uk>
 Description: Tools for inferring asynchronous Boolean
@@ -15,8 +15,9 @@ LinkingTo: Rcpp
 License: GPL-3
 LazyData: true
 Suggests: bnlearn (>= 3.8.1), knitr, rmarkdown
+VignetteBuilder: knitr, rmarkdown
 RoxygenNote: 5.0.1
 NeedsCompilation: yes
-Packaged: 2016-06-24 15:44:44 UTC; cylim
+Packaged: 2016-09-17 10:49:22 UTC; cylim
 Repository: CRAN
-Date/Publication: 2016-06-24 19:13:51
+Date/Publication: 2016-09-17 18:03:21

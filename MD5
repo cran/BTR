@@ -1,6 +1,6 @@
-f97a9438bc7b47225ac0d81227516727 *DESCRIPTION
+a19cb23717600227bcf8a808a2a1606c *DESCRIPTION
 21caadc2d8f185a780a2b07d14806973 *NAMESPACE
-6ffcb086bf3aaa04606e332082f9929f *R/RcppExports.R
+b7484fbd2d8044bea6100b4d8ec9fc29 *R/RcppExports.R
 3cae4944e43161de069037aca3bfeed4 *R/boolmodel_class.R
 006d559bc52e712e363860851fec6623 *R/btr.R
 1895f5241c3b264644d88531e9b2abb6 *R/compression.R
@@ -14,6 +14,7 @@ ea1fcd283526496e950384a9942d5773 *R/rand_model.R
 e2fd5cf6f5aec4859dc0e7b70a36c167 *R/score_calculation.R
 8c92302d74dbc54aa13047ad30356164 *R/search.R
 36e490d865107cbb95ba417dcf82e6b8 *R/simulation.R
+81a4f997a3291e6d2e15278bbc77a86d *build/vignette.rds
 506b0a1a70ab86f7635bf147f90b3729 *data/bon_bmodel.rda
 07c93739225d88f82b39419de24437bd *data/bon_istate.rda
 a38a28197eb90da9ec6a8aaee4b75c78 *data/datalist
@@ -22,6 +23,10 @@ a33ce4275af415fd0dc49131c89a1181 *data/example_models.rda
 3504967293e2c3614cfa46c738d7c412 *data/krum_istate.rda
 e451e674b94084b9034ddc2fe5826661 *data/wilson_raw_data.rda
 a1de2c8cd3b5cc04492eec1031691ce3 *data/wilson_raw_rnaseq.rda
+dcb5fd6858bea095599b250ab0334bb1 *inst/CITATION
+e44720c16c31d62b2261b22526bde399 *inst/doc/btr.R
+e018156067f7c30143aec64b1cce42db *inst/doc/btr.Rmd
+fd4e9e0602d6e4382695d856c4253d9f *inst/doc/btr.html
 4d516ee31061795a706b8c5c04cf0f44 *man/BTR.Rd
 c7c9177ca3684671b570e7d35f94d4e9 *man/BoolModel-class.Rd
 fea4d0017a888d514ad3684a5ac95a9d *man/amat_to_bm.Rd
@@ -76,13 +81,7 @@ cb39089d93fad83432525ff2da4a3ade *man/which.random.min.Rd
 f074e1d93628396b20930393ef14054a *man/wilson_raw_data.Rd
 7563f958d596c236fe439b67694caa5d *man/wilson_raw_rnaseq.Rd
 bc9534aee55728ee3296762ce9ea61a7 *man/writeBM.Rd
-be1f2738e2ed9cc11bce0229265496f2 *src/RcppExports.cpp
+0d78947b00330a0ea50fe40bfc7a9fc1 *src/RcppExports.cpp
 64bbb4df1ea5cf55272a34ad94d27895 *src/score_calculation.cpp
 51ea155b135486c6502672346f5010d6 *src/simulation.cpp
-0876d2816a323cecd791aaca2e5d59ed *vignettes/btr.Rmd
-bcf43e5b1282c8263df9c745d8e1f5b5 *vignettes/btr.html
-29d8de41b8658ad1bea17eaf5c8979da *vignettes/btr.md
-5b91bbb6d4a92ca089df6dfe44aa9402 *vignettes/btr.pdf
-3b6cb88f5905b9fa095f3e8efd7611b0 *vignettes/btr_files/figure-markdown_github/unnamed-chunk-17-1.png
-7976589f00ac2e19ca6ae942c1092604 *vignettes/btr_files/figure-markdown_github/unnamed-chunk-23-1.png
-44fe718a248b6faaf3f812d6e8075a61 *vignettes/btr_files/figure-markdown_github/unnamed-chunk-31-1.png
+e018156067f7c30143aec64b1cce42db *vignettes/btr.Rmd
